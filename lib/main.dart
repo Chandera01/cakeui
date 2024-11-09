@@ -21,7 +21,7 @@ class homePage extends StatelessWidget {
       appBar: AppBar(
         title: Center(
           child: Text(
-            "Cakeui",
+            "Cake's UI for menu",
             style: TextStyle(fontSize: 30, color: Colors.blue),
           ),
         ),
